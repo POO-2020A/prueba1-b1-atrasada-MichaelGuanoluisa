@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "29",
+      "setup": "",
+      "run": "javac Fibonacci.java && java Fibonacci",
+      "input": "29",
+      "output": "In:0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "8",
+      "setup": "",
+      "run": "javac Fibonacci.java && java Fibonacci",
+      "input": "8",
+      "output": "In:0 1 1 2 3 5 8 13",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "15",
+      "setup": "",
+      "run": "javac Fibonacci.java && java Fibonacci",
+      "input": "15",
+      "output": "In:0 1 1 2 3 5 8 13 21 34 55 89 144 233 377",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
