@@ -18,6 +18,7 @@ cOmEdIc
 In: acroBATics
 aCrObAtIcS
 PISTA: Necesitaras una sentencia if dentro del for! 
+
 */
 class MixedCase {
   public static void main(String[] args) {
