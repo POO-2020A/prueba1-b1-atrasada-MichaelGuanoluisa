@@ -4,7 +4,7 @@ import java.util.Scanner;
 La serie de Fibonacci es una serie en la que el siguiente numero es la suma de los dos anteriores.
 Los primeros numeros de la serie de Fibonacci son 0, 1.
 Los primeros 8 numeros de la serie son 0, 1, 1, 2, 3, 5, 8, 13
-Escribe un programa que imprima los primeros X números de la serie de Fibonacci.
+Escribe un programa que imprima los primeros X numeros de la serie de Fibonacci.
 La salida debe ser en una sola linea, separando los numeros por un espacio. Puedes asumir que X es por lo menos 2.
 */
 class Fibonacci {
